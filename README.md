@@ -1,6 +1,6 @@
 # DesktopInfo
 
-An OS Desktop Information utility xx
+An OS Desktop Information utility
 
 
 
@@ -38,7 +38,6 @@ You must install .NET Runtime 10 x64 and then just run DesktopInfo.exe
 * 2026-04-13: hide from taskbar and alt-tab
 * 2026-04-13: Implement acrylic blur effect
 * 2026-04-12: Project started from scratch (previous project was lost)
-
 * 2012-03-11: Add: User/Host/Internal and External IP
 * 2012-03-11: Project started
 

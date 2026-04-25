@@ -62,7 +62,7 @@ Partial Class frmAbout
       lblVer.Name = "lblVer"
       lblVer.Size = New Size(326, 25)
       lblVer.TabIndex = 4
-      lblVer.Text = "v1.1 2026-04-24"
+      lblVer.Text = "v1.1 2026-04-25"
       lblVer.TextAlign = ContentAlignment.MiddleCenter
       ' 
       ' imgPayPal

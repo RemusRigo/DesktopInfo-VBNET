@@ -6,9 +6,9 @@
 #My ignored files
 ~Backup~
 ~ToDo~
-[Hh]istory.txt
 [Uu]pload.bat
 [Uu]pload.ps1
+[Uu]pdate.bat
 
 # User-specific files
 *.rsuser

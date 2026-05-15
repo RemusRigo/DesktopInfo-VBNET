@@ -26,6 +26,12 @@ You must install .NET Runtime 10 x64 and then just run DesktopInfo.exe
 
 
 
+## Statistics
+
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/RemusRigo/DesktopInfo-VBNET/DesktopInfo-v1.1.zip)
+
+
+
 ## Roadmap
 
 * 2026-04-24: Add: Context menu on Left/Right/Middle click (open about, settings, exit)
@@ -40,4 +46,3 @@ You must install .NET Runtime 10 x64 and then just run DesktopInfo.exe
 * 2026-04-12: Project started from scratch (previous project was lost)
 * 2012-03-11: Add: User/Host/Internal and External IP
 * 2012-03-11: Project started
-
